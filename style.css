@@ -1,0 +1,47 @@
+.container{
+    text-align: center;
+    margin-top: 23px
+}
+
+table{
+    margin: auto;
+    background-color: #000000;
+}
+
+input{
+    border-radius: 25px;
+    border: 7px solid #e2ff05;
+    font-size:34px;
+    height: 55px;
+    width: 456px;
+}
+
+button{
+    border-radius: 38px;
+    font-size: 30px;
+    background: #009dff;
+    border-color: #e2ff05;
+    border-width: 7px;
+    width: 90px;
+    height: 70px;
+    margin: 12px;
+}
+
+.calculator{ 
+    border: 7px solid #fe5555;
+    background-color: #000000;
+    padding: 33px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bg{
+    background-image: url(pngtree-cute-hand-drawn-style-mathematics-education-pink-background-image_337362.jpg);
+    background-repeat: no-repeat;background-size: 100% 100%;
+}
